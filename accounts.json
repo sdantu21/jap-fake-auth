@@ -1,0 +1,12 @@
+[
+    {
+        "user": "jap@ceibal.edu.uy",
+        "password": "jap",
+        "roles": ["admin"]
+    },
+    {
+        "user": "test@ceibal.edu.uy",
+        "password": "test",
+        "roles": []
+    }
+]
